@@ -1,8 +1,8 @@
-# Tugas Praktikum Minggu 10
+# Tugas Praktikum Minggu 11
 
 3A / 29 / 2041720183 / Satria Alief Pratama S
 
-#![29_Konversi Suhu](https://user-images.githubusercontent.com/95731826/200466719-4ddecbd8-316a-4a73-a1cd-4599ca61894d.png)
+![29_Konversi Suhu](https://user-images.githubusercontent.com/95731826/200466719-4ddecbd8-316a-4a73-a1cd-4599ca61894d.png)
 
 ## Getting Started
 
