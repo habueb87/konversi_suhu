@@ -2,7 +2,7 @@
 
 3A / 29 / 2041720183 / Satria Alief Pratama S
 
-![29_Konversi Suhu](https://user-images.githubusercontent.com/95731826/200466719-4ddecbd8-316a-4a73-a1cd-4599ca61894d.png)
+![konverter_suhu_1](https://user-images.githubusercontent.com/95731826/201807782-b5eeb4ba-53cb-4ecf-9081-71626c536696.png)
 
 ## Getting Started
 
